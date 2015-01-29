@@ -1,3 +1,2 @@
-The planet Mars is red.  It is very cold and dark.
-
-
+The planet Mars is red and cold.
+It is nice.
